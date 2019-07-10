@@ -1,3 +1,7 @@
+Work In Process, this will be a python 3 only version of PickleShare with Blosc compression built in...
+We'll see how far I get on it 🤷‍♂️
+
+
 PickleShare - a small 'shelve' like datastore with concurrency support
 
 Like shelve, a PickleShareDB object acts like a normal dictionary. Unlike shelve,
